@@ -3,7 +3,7 @@ from tutorial.default_settings import *
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'TESTAPI',
+        'NAME': 'test1',
         'USER': 'root',
         'PASSWORD': 'Password@123',
         'HOST': 'localhost',
